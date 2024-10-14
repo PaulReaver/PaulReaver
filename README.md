@@ -1,4 +1,4 @@
-## Hello everyone 👋, I' m Paul Vallas
+## Hello everyone 👋, I' m Pavlos Vallas
 I've always been down for trying new things and learning new skills. I'm a bit of an artist at heart, so I've dabbled in music, design, multimedia editing and even game development. But as time went on, my interest in the logic and structure of code resurfaced. Web development is the perfect way to combine my creativity with my love for tech.
 
 <!--
